@@ -1,0 +1,4316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencies>
+  <currency>
+    <date>05.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3279.6306</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3230.7682</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3340.7040</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3304.3854</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3283.5968</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3351.1065</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3369.3709</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3344.5928</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3401.2755</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3376.2884</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3382.2766</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3367.6275</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3399.5882</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3389.5597</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3425.7705</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3419.8928</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3410.1249</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.01.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3394.0702</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3382.3866</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3410.4608</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3388.8933</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3381.4020</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3397.7707</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3342.5862</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3364.2595</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3395.8494</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3390.5666</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3401.3188</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3399.2479</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3352.0492</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3377.7871</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3357.7738</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3369.5528</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3357.8506</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3357.7949</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3361.5371</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3386.7960</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.02.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3358.5510</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3374.4080</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3346.5070</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3329.1035</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3317.8723</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3316.4522</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3288.2404</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3276.4356</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3259.0082</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3286.5385</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3266.4433</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3279.1740</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3333.4497</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3326.0207</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3330.8945</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3343.3443</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3352.0383</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3382.7992</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3384.3055</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3422.0452</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3406.4346</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3364.3233</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.03.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3360.8950</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3376.7311</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3379.1893</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3373.4390</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3391.2120</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3377.1711</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3350.7481</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3338.6046</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3345.8856</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3359.4589</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3368.9999</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3362.4598</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3398.6116</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3443.5030</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3425.8950</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3415.9971</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3411.0134</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3415.2139</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3411.3356</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.04.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3422.2502</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3436.7308</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3429.7641</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3414.2641</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3430.1604</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3427.9057</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3397.2679</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3403.9653</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3403.9653</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3419.9581</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3404.3763</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3425.0714</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3440.9828</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3431.4199</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3429.6686</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3411.9224</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3405.1038</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3405.4477</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3382.9882</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3389.7854</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.05.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3392.4347</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3379.2511</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3378.8126</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3378.0227</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3387.4131</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3382.2678</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3384.5833</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3331.5492</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3303.8494</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3310.6817</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3313.3893</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3313.5035</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3322.7740</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3329.9777</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3295.1581</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3303.5542</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3296.8990</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3312.4038</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3316.3100</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3328.4100</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.06.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3385.2463</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3377.3289</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3369.6062</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3363.9900</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3372.7217</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3371.0544</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3356.0946</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3348.0269</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3353.9118</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3335.9718</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3360.9241</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3375.5561</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3391.3594</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3374.8926</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3381.5182</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3356.5557</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3363.5559</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3366.3339</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3380.6865</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3376.1222</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3403.9840</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.07.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3393.6667</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3390.7304</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3414.8451</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3426.5647</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3399.1565</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3397.2469</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3363.5710</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3352.5709</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3340.5006</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3337.9053</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3335.0989</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3325.0691</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3298.3290</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3290.9845</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3282.3419</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3281.7619</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3281.7619</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3276.8687</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3266.6253</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3271.4912</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3295.5925</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3297.0264</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.08.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3304.2713</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3303.4808</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3333.3775</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3357.6168</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3363.8128</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3390.5782</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3405.6224</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3445.2376</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3437.3606</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3454.5075</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3461.8535</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3488.8363</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3563.2853</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3544.4319</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3529.4362</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3545.9961</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3539.8191</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3563.2073</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3551.3620</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3542.9434</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3549.5631</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.09.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3564.3915</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3558.5489</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3540.3616</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3534.6748</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3559.7894</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3529.6837</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3496.3352</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3496.5661</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3507.8537</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3498.9308</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3499.5347</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3522.2891</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3493.3954</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3477.4011</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3491.6262</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3499.5118</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3502.2011</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3512.3718</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3549.4413</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3542.2228</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3518.9313</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.10.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3541.0647</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3558.4462</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3571.6887</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3536.0908</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3534.5588</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3520.7097</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3513.2372</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3492.0433</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3484.8897</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3496.9557</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3468.3275</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3473.7946</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3487.3707</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3494.5425</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3496.7470</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3507.1563</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3507.8276</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3525.3035</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3575.6906</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3586.7748</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3588.6451</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3567.7843</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.11.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3618.5626</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3657.0967</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3649.1017</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3680.9319</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3649.4190</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3626.5222</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3629.3411</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3636.8801</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3627.1156</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3630.8969</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3640.4216</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3682.6279</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3696.8664</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3727.2076</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3725.1540</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3736.5491</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3721.6355</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3740.6543</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3739.8039</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3752.5200</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3773.3670</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3773.3670</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.12.2017</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3773.3670</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3773.3670</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3773.3670</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3773.3670</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3783.0321</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3793.1524</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3821.9806</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3812.4063</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3831.2747</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3837.5763</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3892.3071</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3938.8297</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3943.5179</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3949.6523</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3991.6167</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>4000.3759</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>4012.1629</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>4025.5632</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>4089.6162</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>4097.5470</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>4065.1613</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3976.1611</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.01.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3956.5244</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3945.4714</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3967.3860</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3965.4655</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3896.6224</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3809.0231</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3773.3528</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3797.4190</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3742.2756</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3714.9370</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3702.5320</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3696.4623</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3770.6998</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3788.3229</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3783.9254</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3789.1314</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3756.1097</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3761.8594</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3774.5452</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3788.6750</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.02.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3749.8826</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3703.0207</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3666.9051</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3657.7480</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3657.7480</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3659.0879</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3667.5479</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3619.6822</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3600.0065</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3618.5770</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3630.4512</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3664.4532</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3673.2966</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3714.9232</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3680.9271</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3694.2444</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3708.0268</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3715.1125</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3741.7910</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3702.1423</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3736.9132</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.03.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3738.0544</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3704.7561</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3684.1832</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3702.6190</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3681.5604</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3656.6822</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3647.5620</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3682.8681</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3675.2117</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3691.6225</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3724.3114</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3732.4279</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3735.5825</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3718.7142</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3733.6002</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3678.0956</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3648.1576</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3655.0844</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3663.3851</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.04.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3664.3767</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3605.2619</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3567.0592</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3561.8973</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3568.3209</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3568.3209</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3555.3443</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3539.4061</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3542.9960</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3552.8073</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3555.5401</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3543.3791</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3532.8774</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3539.3125</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3527.6170</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3499.7402</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3506.5609</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3471.8837</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3500.3025</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3487.4948</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3461.5699</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.05.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3474.4208</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3485.4574</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3475.4062</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3498.4722</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3494.3787</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3510.3753</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3515.1776</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3501.6178</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3488.5076</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3487.6023</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3484.0178</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3507.5992</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3494.6752</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3488.2041</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3478.4216</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3488.2279</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3473.8618</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3486.4278</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3486.4278</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3478.3214</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.06.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3467.3320</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3468.4106</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3444.1320</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3472.3357</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3493.3377</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3504.3177</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3482.4561</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3502.8394</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3475.1526</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3478.4119</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3464.2664</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3451.6933</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3479.5983</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3459.8573</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3427.0075</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3435.2679</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3450.4560</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3475.2101</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3489.4574</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3503.1029</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3513.9314</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3502.4994</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.07.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3509.6881</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3534.0483</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3541.6562</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3520.0725</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3525.5499</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3507.8573</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3503.4394</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3468.4958</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3494.5784</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3480.6362</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3490.5266</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3507.2392</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3486.5911</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3515.3183</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3547.7804</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3534.9034</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3551.5309</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3601.9686</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3588.3327</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3589.7637</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3622.4057</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3622.5141</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.08.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3683.7182</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3667.2109</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3654.0703</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3658.0424</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3642.9744</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3655.6529</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3677.3756</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3652.4531</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3650.9031</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3646.9686</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3672.2905</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3687.9631</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3693.5848</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3701.3402</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3694.0361</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3727.9593</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3691.1790</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3699.5232</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3695.5757</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3708.0439</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.09.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3723.4639</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3688.1857</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3675.8384</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3665.5645</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3678.9470</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3658.4949</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3665.2174</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3663.1422</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3662.3092</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3682.5692</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3702.3752</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3688.2770</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3694.6462</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3660.0351</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3672.0242</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3672.4330</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3650.0557</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3667.2853</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3641.7096</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3653.7676</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3616.1208</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3615.0487</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.10.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3592.7444</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3580.9407</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3638.3307</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3655.3140</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3638.9342</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3659.0123</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3666.3771</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3660.2114</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3635.2401</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3589.8222</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3615.9230</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3612.6497</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3553.1059</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3564.3225</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3561.4955</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3566.5094</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3556.1769</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3571.0262</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3566.2098</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3584.4646</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3587.4298</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3614.7991</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.11.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3626.9428</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3599.2991</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3581.0821</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3603.1428</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3573.5568</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3558.5403</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3551.5463</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3516.5407</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3495.0138</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3500.4282</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3526.7978</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3496.8769</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3518.2563</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3531.4724</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3499.9939</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3495.6859</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3470.9408</exchange_rate>
+  </currency>
+  <currency>
+    <date>26.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3470.9408</exchange_rate>
+  </currency>
+  <currency>
+    <date>27.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3454.8849</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3467.8016</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3513.1366</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3513.1366</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.12.2018</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3513.1366</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3513.1366</exchange_rate>
+  </currency>
+  <currency>
+    <date>02.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3513.1366</exchange_rate>
+  </currency>
+  <currency>
+    <date>03.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3513.1366</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3456.9334</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3511.2491</exchange_rate>
+  </currency>
+  <currency>
+    <date>09.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3572.3296</exchange_rate>
+  </currency>
+  <currency>
+    <date>10.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3582.7860</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3606.3408</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3607.1572</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3600.0075</exchange_rate>
+  </currency>
+  <currency>
+    <date>16.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3614.4636</exchange_rate>
+  </currency>
+  <currency>
+    <date>17.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3600.7318</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3619.6579</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3620.2831</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3596.1627</exchange_rate>
+  </currency>
+  <currency>
+    <date>23.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3599.1971</exchange_rate>
+  </currency>
+  <currency>
+    <date>24.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3610.7932</exchange_rate>
+  </currency>
+  <currency>
+    <date>25.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3618.6142</exchange_rate>
+  </currency>
+  <currency>
+    <date>28.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3645.3559</exchange_rate>
+  </currency>
+  <currency>
+    <date>29.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3651.9120</exchange_rate>
+  </currency>
+  <currency>
+    <date>30.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3657.2608</exchange_rate>
+  </currency>
+  <currency>
+    <date>31.01.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3631.9471</exchange_rate>
+  </currency>
+  <currency>
+    <date>01.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3638.9064</exchange_rate>
+  </currency>
+  <currency>
+    <date>04.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3598.4838</exchange_rate>
+  </currency>
+  <currency>
+    <date>05.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3579.7367</exchange_rate>
+  </currency>
+  <currency>
+    <date>06.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3540.7298</exchange_rate>
+  </currency>
+  <currency>
+    <date>07.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3496.4017</exchange_rate>
+  </currency>
+  <currency>
+    <date>08.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3485.5137</exchange_rate>
+  </currency>
+  <currency>
+    <date>11.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3488.4823</exchange_rate>
+  </currency>
+  <currency>
+    <date>12.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3492.5037</exchange_rate>
+  </currency>
+  <currency>
+    <date>13.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3478.4408</exchange_rate>
+  </currency>
+  <currency>
+    <date>14.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3498.2696</exchange_rate>
+  </currency>
+  <currency>
+    <date>15.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3479.8845</exchange_rate>
+  </currency>
+  <currency>
+    <date>18.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3488.9500</exchange_rate>
+  </currency>
+  <currency>
+    <date>19.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3514.7459</exchange_rate>
+  </currency>
+  <currency>
+    <date>20.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3520.0401</exchange_rate>
+  </currency>
+  <currency>
+    <date>21.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3533.5803</exchange_rate>
+  </currency>
+  <currency>
+    <date>22.02.2019</date>
+    <digital_code>826</digital_code>
+    <letter_code>GBP</letter_code>
+    <number_of_units>100</number_of_units>
+    <currency_name>Фунт стерлінгів</currency_name>
+    <exchange_rate>3531.9148</exchange_rate>
+  </currency>
+</currencies>
+
